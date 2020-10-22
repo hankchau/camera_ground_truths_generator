@@ -18,11 +18,11 @@ Outputs:<br/>
 – 'data/parking_lot/image_paths.txt': A file containing the absolute paths of collected images under 'darknet/data/parking_lot' needed by YOLOv3.<br/>  
 – 'data/parking_lot/output.txt': Output file from YOLOv3 detailing the boundary boxes and coordinates for each detection.<br/>
 
-## Sample Input:
+## Sample Images Collected:
 ![image01.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image01.png | width=40)
 ![image04.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image04.png)
 
-## Sample Output:
+## Sample Output for Detection:
 ![predictions01.jpg](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions01.jpg)
 ![predictions01.jpg](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions04.jpg)
 ![output.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/output.png)
@@ -30,7 +30,7 @@ Outputs:<br/>
 
 
 Note:<br/>
-The program currently does not produce images with detection boundary boxes yet. It will be added in a later commit. The<br/>
+The program currently does not produce images with detection boundary boxes yet. It will be added in a later commit.<br/>
 The decision boundaries for determining each parking slot's (1 - 4) vacancy can be altered for further optimization.<br/>
 
 ## Citations: 
