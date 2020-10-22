@@ -1,0 +1,7 @@
+/Users/HankChau/Desktop/darknet/data/parking_lot_sample/image01.png
+/Users/HankChau/Desktop/darknet/data/parking_lot_sample/image02.png
+/Users/HankChau/Desktop/darknet/data/parking_lot_sample/image03.png
+/Users/HankChau/Desktop/darknet/data/parking_lot_sample/image04.png
+/Users/HankChau/Desktop/darknet/data/parking_lot_sample/image05.png
+/Users/HankChau/Desktop/darknet/data/parking_lot_sample/image06.png
+/Users/HankChau/Desktop/darknet/data/parking_lot_sample/image07.png

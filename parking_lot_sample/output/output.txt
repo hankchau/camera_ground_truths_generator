@@ -1,0 +1,77 @@
+Enter Image Path: /Users/HankChau/Desktop/darknet/data/parking_lot_sample/image01.png: Predicted in 32.767364 seconds.
+car: 100%
+0.319889 0.278032 0.203651 0.262598
+Bounding Box: Left=174 Top=88 Right=337 Bottom=245
+car: 100%
+0.117272 0.271766 0.238191 0.248336
+Bounding Box: Left=0 Top=88 Right=189 Bottom=237
+car: 100%
+0.880907 0.299464 0.253136 0.335094
+Bounding Box: Left=603 Top=79 Right=799 Bottom=280
+car: 99%
+0.768612 0.141558 0.092053 0.065991
+Bounding Box: Left=578 Top=65 Right=651 Bottom=104
+car: 100%
+0.675773 0.286778 0.197859 0.272903
+Bounding Box: Left=461 Top=90 Right=619 Bottom=253
+Enter Image Path: /Users/HankChau/Desktop/darknet/data/parking_lot_sample/image02.png: Predicted in 30.751888 seconds.
+car: 99%
+0.373343 0.137717 0.156622 0.070511
+Bounding Box: Left=236 Top=61 Right=361 Bottom=103
+car: 99%
+0.885558 0.303241 0.237633 0.311649
+Bounding Box: Left=613 Top=88 Right=799 Bottom=275
+car: 98%
+0.623020 0.202327 0.092075 0.146099
+Bounding Box: Left=461 Top=77 Right=535 Bottom=165
+car: 98%
+0.112694 0.268975 0.220700 0.332339
+Bounding Box: Left=1 Top=61 Right=178 Bottom=261
+car: 100%
+0.732413 0.215676 0.135570 0.131274
+Bounding Box: Left=531 Top=90 Right=640 Bottom=168
+Enter Image Path: /Users/HankChau/Desktop/darknet/data/parking_lot_sample/image03.png: Predicted in 29.624592 seconds.
+car: 100%
+0.741686 0.211276 0.164902 0.145449
+Bounding Box: Left=527 Top=83 Right=659 Bottom=170
+Enter Image Path: /Users/HankChau/Desktop/darknet/data/parking_lot_sample/image04.png: Predicted in 30.049652 seconds.
+car: 100%
+0.204928 0.332877 0.396155 0.365787
+Bounding Box: Left=5 Top=89 Right=322 Bottom=309
+car: 100%
+0.880183 0.300734 0.252967 0.332422
+Bounding Box: Left=602 Top=80 Right=799 Bottom=280
+car: 99%
+0.651404 0.141185 0.146272 0.073670
+Bounding Box: Left=462 Top=62 Right=579 Bottom=106
+car: 98%
+0.760153 0.142133 0.098570 0.071589
+Bounding Box: Left=568 Top=63 Right=647 Bottom=106
+car: 100%
+0.673623 0.285469 0.197017 0.273621
+Bounding Box: Left=460 Top=89 Right=617 Bottom=253
+Enter Image Path: /Users/HankChau/Desktop/darknet/data/parking_lot_sample/image05.png: Predicted in 31.089448 seconds.
+car: 100%
+0.879113 0.298900 0.252871 0.332550
+Bounding Box: Left=602 Top=79 Right=799 Bottom=279
+car: 100%
+0.675324 0.288791 0.194521 0.272515
+Bounding Box: Left=462 Top=91 Right=618 Bottom=255
+Enter Image Path: /Users/HankChau/Desktop/darknet/data/parking_lot_sample/image06.png: Predicted in 27.833141 seconds.
+car: 99%
+0.882300 0.299788 0.244805 0.332226
+Bounding Box: Left=607 Top=80 Right=799 Bottom=279
+car: 99%
+0.412404 0.094122 0.046553 0.049674
+Bounding Box: Left=311 Top=41 Right=348 Bottom=71
+car: 100%
+0.652141 0.145506 0.138415 0.087349
+Bounding Box: Left=466 Top=61 Right=577 Bottom=113
+Enter Image Path: /Users/HankChau/Desktop/darknet/data/parking_lot_sample/image07.png: Predicted in 31.000607 seconds.
+car: 99%
+0.361374 0.098194 0.056011 0.053756
+Bounding Box: Left=266 Top=42 Right=311 Bottom=75
+car: 100%
+0.651883 0.145466 0.139275 0.083142
+Bounding Box: Left=465 Top=62 Right=577 Bottom=112
+Enter Image Path: 
