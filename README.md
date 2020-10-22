@@ -13,10 +13,10 @@ Credits: Please refer to https://pjreddie.com/darknet/yolo/ for more info on YOL
 
 Inputs: None
 Outputs:
-–'darknet/data/parking_lot/': A folder containing collected images (.png) from the camera stream.
-–'data/parking_lot/ground_truths': A matrix with rows corresponding to the ground-truth values of each parking slot in an image. 
-–'data/parking_lot/image_paths.txt': A file containing the absolute paths of collected images under 'darknet/data/parking_lot' needed by YOLOv3.
-–'data/parking_lot/output.txt': Output file from YOLOv3 detailing the boundary boxes and coordinates for each detection.
+–'darknet/data/parking_lot/': A folder containing collected images (.png) from the camera stream.  
+–'data/parking_lot/ground_truths': A matrix with rows corresponding to the ground-truth values of each parking slot in an image.  
+–'data/parking_lot/image_paths.txt': A file containing the absolute paths of collected images under 'darknet/data/parking_lot' needed by YOLOv3.  
+–'data/parking_lot/output.txt': Output file from YOLOv3 detailing the boundary boxes and coordinates for each detection.  
 
 ## Sample Input:
 ![alt text](https://github.com/hankchau/camera_ground_truths_generator/parking_lot_sample/image01.png?raw=true)
