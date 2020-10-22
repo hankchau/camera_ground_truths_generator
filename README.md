@@ -23,12 +23,12 @@ Outputs:<br/>
 ![image04.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image04.png)
 
 ### Sample Images after Detection:
-![predictions01.jpg](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions01.jpg)
-![predictions01.jpg](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions04.jpg)
+![predictions01.jpg](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions01_sample.jpg)
+![predictions01.jpg](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions04_sample.jpg)
 ### 'Sample output/output.txt':
-![output.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/output.png)
+![output.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/output_sample.png)
 ### 'Sample output/ground_truths.txt':
-![ground_truths.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/ground_truths.png)
+![ground_truths.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/ground_truths_sample.png)
 
 
 Note:<br/>
