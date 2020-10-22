@@ -18,14 +18,16 @@ Outputs:<br/>
 * 'data/parking_lot/image_paths.txt': A file containing the absolute paths of collected images under 'darknet/data/parking_lot' needed by YOLOv3.<br/>  
 * 'data/parking_lot/output.txt': Output file from YOLOv3 detailing the boundary boxes and coordinates for each detection.<br/>
 
-## Sample Images Collected:
+### Sample Images Collected:
 ![image01.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image01.png)
 ![image04.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image04.png)
 
-## Sample Output for Detection:
+### Sample Images after Detection:
 ![predictions01.jpg](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions01.jpg)
 ![predictions01.jpg](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions04.jpg)
+### Sample output/output.txt
 ![output.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/output.png)
+### Sample output/ground_truths.txt
 ![ground_truths.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/ground_truths.png)
 
 
