@@ -19,7 +19,7 @@ Outputs:<br/>
 – 'data/parking_lot/output.txt': Output file from YOLOv3 detailing the boundary boxes and coordinates for each detection.<br/>
 
 ## Sample Input:
-![alt text](https://github.com/hankchau/camera_ground_truths_generator/parking_lot_sample/image01.png)
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/tree/main/parking_lot_sample/image01.png)
 
 ## Sample Output:
 
