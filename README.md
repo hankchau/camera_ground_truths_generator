@@ -20,12 +20,20 @@ Outputs:<br/>
 
 ## Sample Input:
 ![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image01.png)
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image04.png)
 
 ## Sample Output:
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/predictions01.jpg)
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/predictions04.jpg)
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/output.png)
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/ground_truths.jpg)
 
-Note: The decision boundaries for determining each parking slot's (1 - 4) vacancy can be altered for further optimization.
 
-Citations: 
+Note:<br/>
+The program currently does not produce images with detection boundary boxes yet. It will be added in a later commit. The<br/>
+The decision boundaries for determining each parking slot's (1 - 4) vacancy can be altered for further optimization.<br/>
+
+## Citations: 
 @article{yolov3,
   title={YOLOv3: An Incremental Improvement},
   author={Redmon, Joseph and Farhadi, Ali},
