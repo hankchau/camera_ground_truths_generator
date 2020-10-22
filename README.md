@@ -12,7 +12,7 @@ Credits: Please refer to https://pjreddie.com/darknet/yolo/ for more info on YOL
 –5. Run the script with './get_labels.sh'.<br/>
 
 Inputs: None<br/>
-Outputs:
+Outputs:<br/>
 –'darknet/data/parking_lot/': A folder containing collected images (.png) from the camera stream.<br/>
 –'data/parking_lot/ground_truths': A matrix with rows corresponding to the ground-truth values of each parking slot in an image.<br/>
 –'data/parking_lot/image_paths.txt': A file containing the absolute paths of collected images under 'darknet/data/parking_lot' needed by YOLOv3.<br/>  
@@ -22,7 +22,6 @@ Outputs:
 ![alt text](https://github.com/hankchau/camera_ground_truths_generator/parking_lot_sample/image01.png?raw=true)
 
 ## Sample Output:
-
 
 Note: The decision boundaries for determining each parking slot's (1 - 4) vacancy can be altered for further optimization.
 
