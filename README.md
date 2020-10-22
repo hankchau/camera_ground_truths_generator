@@ -36,9 +36,5 @@ The program currently does not produce images with detection boundary boxes yet.
 The decision boundaries for determining each parking slot's (1 - 4) vacancy can be altered for further optimization.<br/>
 
 ## Citations: 
-@article{yolov3,
-  title={YOLOv3: An Incremental Improvement},
-  author={Redmon, Joseph and Farhadi, Ali},
-  journal = {arXiv},
-  year={2018}
-}
+YOLOv3: An Incremental Improvement, Redmon, Joseph; Farhadi, Ali
+https://arxiv.org/pdf/1804.02767.pdf
