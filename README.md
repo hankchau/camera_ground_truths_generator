@@ -8,7 +8,7 @@ Credits: Please refer to https://pjreddie.com/darknet/yolo/ for more info on YOL
 1. Follow the guide in the link above to download the CNN model and pre-trained weights for YOLOv3.<br/>
 2. Once you're done with downloading YOLOv3, place the .py files in this repository under the root folder 'darknet'.<br/>
 3. Replace 'image.c' under 'darknet/src' with the 'image.c' from this repo.<br/>
-4. Navigate to 'darknet' in Terminal/Command Line and build 'get_labels.sh' into an executable script with 'chmod +x get_labels.sh'(might be different for Windows).<br/>
+4. Navigate to 'darknet' in Terminal/Command Line and build 'get_labels.sh' into an executable script with 'chmod +x get_labels.sh' (might be different for Windows).<br/>
 5. Run the script with './get_labels.sh'.<br/>
 
 Inputs: None<br/>
