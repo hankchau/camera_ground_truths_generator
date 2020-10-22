@@ -19,14 +19,14 @@ Outputs:<br/>
 – 'data/parking_lot/output.txt': Output file from YOLOv3 detailing the boundary boxes and coordinates for each detection.<br/>
 
 ## Sample Input:
-![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image01.png)
-![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image04.png)
+![image01.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image01.png =30x40)
+![image04.png](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/image04.png =30x40)
 
 ## Sample Output:
-![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/predictions01.jpg)
-![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/predictions04.jpg)
-![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/output.png)
-![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/parking_lot_sample/ground_truths.jpg)
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions01.jpg)
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/predictions04.jpg)
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/output.png)
+![alt text](https://github.com/hankchau/camera_ground_truths_generator/blob/main/ground_truths.jpg)
 
 
 Note:<br/>
